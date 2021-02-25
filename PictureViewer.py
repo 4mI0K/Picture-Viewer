@@ -6,9 +6,9 @@ root = Tk()
 root.title("Prozorcic")
 
 # Images
-img = ImageTk.PhotoImage(Image.open("web.png"))
-img1 = ImageTk.PhotoImage(Image.open("webp.png"))
-img2 = ImageTk.PhotoImage(Image.open("pro.png"))
+img = ImageTk.PhotoImage(Image.open("web.png")) 
+img1 = ImageTk.PhotoImage(Image.open("webp.png")) 
+img2 = ImageTk.PhotoImage(Image.open("pro.png"))	# Type in the full path to the file  
 img3 = ImageTk.PhotoImage(Image.open("coding.png"))
 img4 = ImageTk.PhotoImage(Image.open("data.png"))
 
